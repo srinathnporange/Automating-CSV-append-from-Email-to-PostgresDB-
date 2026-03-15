@@ -38,7 +38,7 @@ Extract File from Email
 ⬇  
 Convert Binary to CSV  
 ⬇  
-Extract Data  https://github.com/srinathnporange/Automating-CSV-append-from-Email-to-PostgresDB-/blob/main/README.md
+Extract Data  
 ⬇  
 Insert rows into PostgreSQL (Supabase)
 
