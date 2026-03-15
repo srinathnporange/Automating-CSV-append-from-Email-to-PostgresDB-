@@ -52,7 +52,7 @@ Insert rows into PostgreSQL (Supabase)
 
 ## 📊 Database Table
 
-!Database
+[!Database](https://github.com/srinathnporange/Automating-CSV-append-from-Email-to-PostgresDB-/blob/main/Capture.PNG)
 
 ---
 
