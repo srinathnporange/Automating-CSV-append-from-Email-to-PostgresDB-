@@ -46,7 +46,7 @@ Insert rows into PostgreSQL (Supabase)
 
 ## 📸 Workflow Screenshot
 
-!Workflow
+[!Workflow](https://github.com/srinathnporange/Automating-CSV-append-from-Email-to-PostgresDB-/blob/main/workflow_n8n.PNG)
 
 ---
 
